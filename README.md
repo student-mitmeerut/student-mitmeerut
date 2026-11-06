@@ -109,14 +109,17 @@ I practice coding problems to strengthen my programming and problem-solving skil
 
 ## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=student-mitmeerut&show_icons=true&theme=tokyonight" width="100%">
-
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=student-mitmeerut&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Statistics"/>
+</p>
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=student-mitmeerut&theme=tokyonight" width="100%" />
+  <img src="https://ghchart.rshah.org/409ba5/student-mitmeerut" width="100%" alt="GitHub Contribution Activity"/>
 </p>
+
+
 
 
 ## 🌐 Connect With Me
